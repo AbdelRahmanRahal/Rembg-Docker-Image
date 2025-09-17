@@ -3,7 +3,7 @@
 A lightweight Docker image for [Rembg](https://github.com/danielgatis/rembg), a tool to remove image backgrounds using deep learning.  
 This containerized setup ensures you can use `rembg` without installing Python or dependencies directly on your machine.
 
-## Build the image
+## Build the Image
 Clone this repository and build the Docker image:
 
 ```powershell
