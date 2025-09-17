@@ -1,4 +1,4 @@
-# Rembg-Docker-Image
+# Rembg Docker Image
 
 A lightweight Docker image for [Rembg](https://github.com/danielgatis/rembg), a tool to remove image backgrounds using deep learning.  
 This containerized setup ensures you can use `rembg` without installing Python or dependencies directly on your machine.
